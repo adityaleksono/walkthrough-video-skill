@@ -1,0 +1,8 @@
+[
+  { "id": "01", "lines": ["This is the team task list.", "Everyone on the team sees the same tasks."] },
+  { "id": "02", "lines": ["To add one, select Add task,", "give it a name,", "and save."] },
+  { "id": "03", "lines": ["The new task goes to the top of the list."] },
+  { "id": "04", "lines": ["Finished tasks stay on the list.", "To hide them, show open tasks only."] },
+  { "id": "05", "lines": ["Before, five tasks.", "After, only the three still open."] },
+  { "id": "06", "lines": ["That is the task list."] }
+]

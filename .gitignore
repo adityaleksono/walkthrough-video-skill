@@ -1,0 +1,11 @@
+.DS_Store
+node_modules/
+__pycache__/
+*.pyc
+
+# Working files and secrets never belong in the repository
+work/
+*.webm
+*.wav
+.env*
+*.key
